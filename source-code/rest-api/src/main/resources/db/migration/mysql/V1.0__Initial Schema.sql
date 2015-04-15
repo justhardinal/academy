@@ -5,4 +5,4 @@ create table application_info (
     info_description VARCHAR(255) NOT NULL,
     PRIMARY KEY (id),
     UNIQUE KEY (info_name)
-) Engine=InnoDB;
+)InnoDB;
