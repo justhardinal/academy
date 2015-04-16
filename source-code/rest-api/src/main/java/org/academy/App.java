@@ -1,4 +1,4 @@
-package org.akademik;
+package org.academy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

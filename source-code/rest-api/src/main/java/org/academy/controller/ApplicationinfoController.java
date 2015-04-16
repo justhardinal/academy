@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.akademik.controller;
+package org.academy.controller;
 
 import javafx.application.Application;
-import org.akademik.a.entity.Applicationinfo;
-import org.akademik.entity.dao.ApplicationinfoDao;
+import org.academy.entity.Applicationinfo;
+import org.academy.entity.dao.ApplicationinfoDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
